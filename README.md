@@ -3,7 +3,7 @@
 
 ### GABRIELA REYES GONZALEZ
 
-### LINK PAGINA: (parcial-segundo-corte-kings0401.vercel.app)
+### LINK PAGINA: [Appi Click Aqui](https://parcial-segundo-corte-six.vercel.app/)
 
 ### Instrucciones Generales
 - El examen consta de tres partes, cada una correspondiente a una ruta de una API REST desarrollada con Express, todas deben desarrollarse dentro de la misma aplicación.
